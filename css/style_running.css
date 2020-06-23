@@ -1,0 +1,77 @@
+header{
+background-color: transparent;
+	padding: 20px;
+	position: absolute;
+	width: 100%;
+	z-index: 1000;
+}
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+#sec-home{
+	background-image: url("../img/home-header-bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#sec-home h1{
+color: #FFFFFF;	
+	font-size: 60px;
+	padding-bottom: 50%;
+	padding-top: 50%;
+}
+
+#sec-home p{
+color: #FFFFFF;
+	font-size: 30px;
+}
+
+.btn-seemore1{
+	background-color: #fba755;
+	margin-right: 15%;
+	font-size: 20px;
+}
+
+.btn-seemore2{
+	background-color: white;
+	font-size: 20px;
+	color: #fba755;
+}
+#sec-coaches{
+	
+	text-align: center;
+}
+#sec-coaches h4{
+	font-weight: bold;
+}
+#sec-coaches p{
+	color: #7e7979;
+}
+#sec-about h4{
+	
+}
+
+footer{
+	
+	background-color: #121212;
+	color: #FFFFFF;
+	padding: 20px;
+	font-size: 15px;
+}
+
+footer ul li a{
+	
+	color: #FFF9F9;
+	font-size: 13px;
+	text-align: center;		
+}
+
+footer ul li{
+	padding-right:15px; 
+
+
+}
+
